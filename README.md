@@ -60,8 +60,20 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h4>Within the "Confirmation" section simply click install. Then observe installation. Once it is finished the virtual machine will restart automatically.</h4>
 <img src="https://i.imgur.com/lEathND.png">
-<
-<p>
+<img src="https://i.imgur.com/U8KLXpU.png">
+
+<h2>Step 3:</h2>
+<h4></h4>
+<img src="">
+
+<h4></h4>
+<img src="">
+
+<h4></h4>
+<img src="">
+
+<h4></h4>
+<img src="">
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
