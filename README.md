@@ -47,7 +47,20 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/ydIwo5B.png">
 <img src="https://i.imgur.com/TQGPHpP.png">
 
-Step 2:
+<h2>Step 2: Create a forest to promote the virtual machine as an actual domain controller.</h2>
+
+<h4>Within the Server Manager's dashboard click  the flag icon. Then click "Promote this server to a domain controller"</h4>
+<img src="https://i.imgur.com/wKHdgsC.png">
+
+<h4>Within the Deployment Configuration tab, select "Add a new forest" and type the domain name under. After click next</h4>
+<img src="https://i.imgur.com/MrFaX5f.png">
+
+<h4>In Domain controller options simply write a password for Directory Services Restore Mode. After keep clicking next until you are in the "Confirmation Selection Selections" section. </h4>
+<img src="https://i.imgur.com/tX1WSr9.png">
+
+<h4>Within the "Confirmation" section simply click install. Then observe installation. Once it is finished the virtual machine will restart automatically.</h4>
+<img src="https://i.imgur.com/lEathND.png">
+<
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
