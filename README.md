@@ -62,20 +62,30 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/lEathND.png">
 <img src="https://i.imgur.com/U8KLXpU.png">
 
-<h2>Step 3:</h2>
-<h4></h4>
-<img src="">
+<h2>Step 3:Create a Domain Admin user within the domain.</h2>
+<h4>Before logging back into the domain controller, we need to specify the root domain name that we created beforehand. Simply type mydomain.com/Labuser1 and login with the same password. </h4>
+<img src="https://i.imgur.com/dLJIxWI.png">
+<img src="https://i.imgur.com/apT61yh.png">
 
-<h4></h4>
-<img src="">
+<h4> Click start in our domain controller, click "Windows Administrative Tools and then click "Active Directory Users and Computers"</h4>
+<img src="https://i.imgur.com/0Y4Y1E3.png">
 
-<h4></h4>
-<img src="">
 
-<h4></h4>
-<img src="">
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<h4>Indicate the domain name and right click , click "New and then "Organizational Unit"</h4>
+<img src="https://i.imgur.com/i72IQyH.png">
+<img src="https://i.imgur.com/O8J4ZTF.png">
+
+<h4>Type _EMPLOYEES and click "Ok" below to create the Organizational unit. Follow the same previous steps and create an "_ADMINS" Organizational Unit</h4>
+<img src="https://i.imgur.com/KCJFpyW.png"/>
+<img src="https://i.imgur.com/V2TBoKr.png"/>
+
+<h4>Right click the "_ADMINS" Organizational Unit and click new, then click User</h4>
+<img src="https://i.imgur.com/LOb2OE0.png">
+<img src="https://i.imgur.com/Y4vzbRs.png">
+
+<h4>Type in a username for our new admin, click next and add password.</h4>
+<img src="https://i.imgur.com/TIo5uyU.png">
+<img src="https://i.imgur.com/4DQtyEx.png">
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
