@@ -101,7 +101,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h4>Log into Client-1 virtual machine</h4>
 <img src="https://i.imgur.com/2A6yjXH.png">
 <h4>Click on systems </h4>
-<img src="https://i.imgur.com/d1nFf4M.png">
+<img src="https://i.imgur.com/E0jJymW.png">
 <h4>Click "Change", click "Domain" and write in the domain name, after click "Ok" and type in the credentials we would use to log into the domain controller virtual machine.The changes will be applied when we restart the virtual machine.</h4>
 <img src="https://i.imgur.com/MffMZlw.png">
 <img src="">
