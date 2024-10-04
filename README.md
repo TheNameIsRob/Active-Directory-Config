@@ -1,4 +1,4 @@
-# Active-Directory-Config
+# Active-Directory-Deploy
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
@@ -86,6 +86,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h4>Type in a username for our new admin, click next and add password.</h4>
 <img src="https://i.imgur.com/TIo5uyU.png">
 <img src="https://i.imgur.com/4DQtyEx.png">
+
+<h4>Simply click finish and observe our newly created admin</h4>
+<img src="https://i.imgur.com/DfDFvlg.png">
+<img src="https://i.imgur.com/g7NsnYM.png">
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
