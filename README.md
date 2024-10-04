@@ -70,7 +70,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h4> Click start in our domain controller, click "Windows Administrative Tools and then click "Active Directory Users and Computers"</h4>
 <img src="https://i.imgur.com/0Y4Y1E3.png">
 
-
 <h4>Indicate the domain name and right click , click "New and then "Organizational Unit"</h4>
 <img src="https://i.imgur.com/i72IQyH.png">
 <img src="https://i.imgur.com/O8J4ZTF.png">
@@ -90,6 +89,23 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h4>Simply click finish and observe our newly created admin</h4>
 <img src="https://i.imgur.com/DfDFvlg.png">
 <img src="https://i.imgur.com/g7NsnYM.png">
+
+<h4>Before we logout, we need to add our admin user to the Domains Admins Security Group. We can click on "Rai Bow" our user and click, click "Member of" and then click "Ok" After Domain Users has been added simply click "Apply" and then "Ok"</h4>
+<img src="https://i.imgur.com/vHiC0No.png">
+<img src="https://i.imgur.com/h4B0SUs.png">
+
+<h4>Log out</h4>
+<img src="https://i.imgur.com/NkQepQV.png">
+
+<h2>Step 4: Join Client-1 to our domain</h2>
+<h4>Log into Client-1 virtual machine</h4>
+<img src="https://i.imgur.com/2A6yjXH.png">
+<h4>Click on systems </h4>
+<img src="https://i.imgur.com/d1nFf4M.png">
+<h4>Click "Change", click "Domain" and write in the domain name, after click "Ok" and type in the credentials we would use to log into the domain controller virtual machine.The changes will be applied when we restart the virtual machine.</h4>
+<img src="https://i.imgur.com/MffMZlw.png">
+<img src="">
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
