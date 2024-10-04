@@ -106,23 +106,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/MffMZlw.png">
 <img src="">
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h4>Step 5: Verify that Client-1 has been joined unto our domain.</h4>
+<h4>Go back into "Active Directory Users and Computers" and make a new organizational unit called "_CLIENTS".</h4>
+<img src="https://i.imgur.com/UwEe5JF.png">
+<img src="https://i.imgur.com/GFgdObW.png">
+<h4>Drag "Client-1" from "Computers" and put it into our "_CLIENTS" organization unit.Verify it's been dragged</h4>
+<img src="https://i.imgur.com/2DDLRl8.png">
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h2>Now that we have successfully deployed the Active Directory services, we can execute different kinds of administrative tasks as an admin using a domain controller such as creating users, managing user accounts and configuring different rules for different kinds of accounts.</h2>
